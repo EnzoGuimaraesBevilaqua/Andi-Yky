@@ -6,6 +6,11 @@ Estufa utilizando arduino para otimizar a extração pelo método tradicional do
 ## 2- Aumentar a produção
 ## 3- Facilitar o dia a dia das comunidades tradicionais que realizam a extração do óleo de andiroba
 
+# Funcionalidades
+## 1- Regular a termperatura para a faixa selecionada
+## 2- Possuí uma abertura para onde o óleo escorre
+## 3- Alto tempo de funcionamento autônomo
+
 ## Participantes
 
 ### Enzo Guimarães Bevilaqua
