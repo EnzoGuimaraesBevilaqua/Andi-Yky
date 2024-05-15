@@ -2,12 +2,10 @@
 Estufa utilizando arduino para otimizar a extração pelo método tradicional do óleo de andiroba através do calor.
 
 # Objetivos:
-## 1- Acelerar o processo de extração do óleo de andiroba
-## 2- Aumentar a produção
-## 3- Facilitar o dia a dia das comunidades tradicionais que realizam a extração do óleo de andiroba
+Acelerar o processo de extração do óleo de andiroba,aumentar a produção e facilitar o dia a dia das comunidades tradicionais que realizam a extração do óleo de andiroba.
 
 # Funcionalidades
-## 1- Regular a termperatura para a faixa selecionada
+## 1- Regular a temperatura para que se mantenha na faixa selecionada
 ## 2- Possuí uma abertura para onde o óleo escorre
 ## 3- Alto tempo de funcionamento autônomo
 
