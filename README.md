@@ -18,3 +18,6 @@ Estufa utilizando arduino para otimizar a extração pelo método tradicional do
 
 ### Antônio Lucas
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tony38700)
+
+### Hugo Martins
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugomartinsdev)
