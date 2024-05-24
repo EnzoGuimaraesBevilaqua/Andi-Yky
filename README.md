@@ -1,5 +1,5 @@
 # Andi-Yky
-Estufa utilizando arduino para otimizar a extração do óleo de andiroba através do calor.
+Estufa utilizando arduino para otimizar a extração do óleo de andiroba através do calor teste.
 
 # Objetivos:
 Acelerar o processo de extração do óleo de andiroba,aumentar a produção e facilitar o dia a dia das comunidades tradicionais que realizam a extração do óleo de andiroba.
