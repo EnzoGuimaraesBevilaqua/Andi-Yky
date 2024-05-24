@@ -19,3 +19,14 @@ Acelerar o processo de extração do óleo de andiroba,aumentar a produção e f
 
 ### Hugo Martins
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugomartinsdev)
+
+### Carlos Sandro
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c-sandro)
+
+### Caio Arlen
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brcasp00)
+
+### Sandro Silva
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandroSilvaS2)
+
+
