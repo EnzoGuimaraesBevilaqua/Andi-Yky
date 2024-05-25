@@ -1,2 +1,2 @@
 # Andi-Yky
-Estufa utilizando arduino para otimizar a extração do óleo de andiroba através do calor.
+Nesta seção serão colocados os códigos usados para gerenciar a estufa a partir do Arduino
